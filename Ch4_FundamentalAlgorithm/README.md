@@ -26,7 +26,7 @@
   	Assert.assertArrayEquals(expected, numbers); // true
   }
   ```
-
+ 
 
 
 * 객체 정렬하려면, 아래 코드 처럼 `Comparable` 인터페이스를 구현해야한다.
